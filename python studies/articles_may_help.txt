@@ -1,0 +1,2 @@
+PCR and PCA --> https://nirpyresearch.com/principal-component-regression-python/
+PCR and PLS --> https://scikit-learn.org/stable/auto_examples/cross_decomposition/plot_pcr_vs_pls.html
